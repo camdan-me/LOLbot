@@ -18,6 +18,10 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
+	if (message.content.startsWith('lol help')) {
+		message.reply('I\'m LOLbot. I will react to any message you send with 🤣. It\'s that simple! (Check out my GitHub: https://github.com/CamTheHelpDesk/LOLbot)');
+	}
+
 	const lol = filter.isUnclean(message.content);
 	if (lol) {
 		message.react('🤣');
