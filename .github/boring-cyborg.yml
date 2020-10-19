@@ -1,0 +1,11 @@
+# Comment to be posted to welcome users when they open their first PR
+firstPRWelcomeComment: >
+  :wave: Hello! Welcome to the Xerex developer community! I see this is your first pull request. We really appreciate your contribution, and ask that you please check out our contributing guidelines.
+
+# Comment to be posted to congratulate user on their first merged PR
+firstPRMergeComment: >
+  Awesome work, congrats on your first merged pull request! :tada: We look forward to hearing more from you!
+
+# Comment to be posted to on first time issues
+firstIssueWelcomeComment: >
+  :wave: Hello! Welcome to the Xerex developer community! I see this is your first issue. We really appreciate your contribution, and ask that you please follow one of the provided issue templates!

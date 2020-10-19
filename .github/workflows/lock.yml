@@ -1,0 +1,26 @@
+name: 'Lock Inactive Threads'
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: dessant/lock-threads@v2
+        with:
+          github-token: ${{ github.token }}
+          issue-lock-inactive-days: '1'
+          issue-exclude-created-before: ''
+          issue-exclude-labels: ''
+          issue-lock-labels: 'autolocked'
+          issue-lock-comment: 'Thank you for your contribution! I am locking this issue bebcause it is closed and has not had any activity for 24 hours. If you have more to contribute, please feel free to open another issue!'
+          issue-lock-reason: 'resolved'
+          pr-lock-inactive-days: '1'
+          pr-exclude-created-before: ''
+          pr-exclude-labels: ''
+          pr-lock-labels: 'autolocked'
+          pr-lock-comment: 'Thank you for your contribution! I am locking this PR bebcause it is closed and has not had any activity for 24 hours. If you have more to contribute, please feel free to open another PR!'
+          pr-lock-reason: 'resolved'
+          process-only: ''

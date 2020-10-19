@@ -1,0 +1,17 @@
+name: Triage Issues
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  assign:
+    name: Assign issues to project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Assign issues to project
+        uses: technote-space/create-project-card-action@v1
+        with:
+          PROJECT: Todo
+          COLUMN: To do
+          GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}}

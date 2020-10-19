@@ -1,0 +1,13 @@
+name: Check License Comments
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  check-license-lines:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@master
+    - name: Check License Comments
+      uses: kt3k/license_checker@v1.0.3

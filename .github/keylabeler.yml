@@ -1,0 +1,25 @@
+# Determines if we search the title (optional). Defaults to true.
+matchTitle: true
+
+# Determines if we search the body (optional). Defaults to true.
+matchBody: false
+
+# Determines if label matching is case sensitive (optional). Defaults to true.
+caseSensitive: true
+
+# Explicit keyword mappings to labels. Form of match:label. Required.
+labelMappings:
+  build: meta
+  ci: meta
+  test: test
+  bug: bug
+  fix: bugfix
+  feat: enhancement
+  meta: meta
+  chore: meta
+  docs: documentation
+  style: style
+  refactor: refactor
+  perf: performance
+  security: security
+  release: release

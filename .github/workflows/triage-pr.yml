@@ -1,0 +1,17 @@
+name: Triage PRs
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  assignToProject:
+    name: Assign PR to Project
+    runs-on: ubuntu-latest
+    steps:
+      - name: Assign PR to Project
+        uses: technote-space/create-project-card-action@v1
+        with:
+          PROJECT: Todo
+          COLUMN: To do
+          GITHUB_TOKEN: ${{secrets.ACCESS_TOKEN}}
