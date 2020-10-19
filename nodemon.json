@@ -1,0 +1,10 @@
+{
+    "ext": "js,json",
+    "ignore": ["*.*.sample"],
+    "delay": "5",
+    "execMap": {
+      "ts": "ts-node"
+    },
+    "verbose": "true"
+  }
+  
