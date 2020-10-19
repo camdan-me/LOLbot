@@ -2,7 +2,7 @@ const express = require('express');
 const server = express();
 
 server.all('/', (req, res)=>{
-	res.send('AIMod is now online. Pinging this URL will bring AIMod online if there are any issues.');
+	res.send('LOLbot is now online. Pinging this URL will bring LOLbot online if there are any issues.');
 });
 
 function keepAlive() {
