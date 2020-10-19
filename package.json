@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/CamTheHelpDesk/LOLbot/issues"
   },
-  "homepage": "https://github.com/CamTheHelpDesk/LOLbot#readme"
+  "homepage": "https://github.com/CamTheHelpDesk/LOLbot#readme",
+  "dependencies": {
+    "badwords-filter": "^1.0.0",
+    "discord.js": "^12.4.0",
+    "eslint": "^7.11.0",
+    "nodemon": "^2.0.6"
+  }
 }
