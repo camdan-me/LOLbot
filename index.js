@@ -18,7 +18,6 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-	console.log(message.content);
 	const lol = filter.isUnclean(message.content);
 	if (lol) {
 		message.react('🤣');
