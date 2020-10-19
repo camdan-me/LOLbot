@@ -1,0 +1,23 @@
+{
+  "name": "lolbot",
+  "version": "0.0.0",
+  "description": "LOLbot is a revolutionary, brand-new, never before seen idea that will automatically react to any message in your server that contains \"lol\".",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CamTheHelpDesk/LOLbot.git"
+  },
+  "keywords": [
+    "lol",
+    "discord-bot"
+  ],
+  "author": "Camdan Mead",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CamTheHelpDesk/LOLbot/issues"
+  },
+  "homepage": "https://github.com/CamTheHelpDesk/LOLbot#readme"
+}
