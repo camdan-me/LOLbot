@@ -1,14 +1,11 @@
 # Meet LOLBot
 LOLbot is a revolutionary, brand-new, never before seen idea that will automatically react to any message in your server that contains "lol".
 
-![Lint Workflow Status](https://img.shields.io/github/workflow/status/CamTheHelpDesk/LOLBot/ESLint?label=Lint&style=for-the-badge)
-
 ![License](https://img.shields.io/github/license/CamTheHelpDesk/LOLBot?style=for-the-badge&color=00ff00)
 ![Version](https://img.shields.io/github/v/release/CamTheHelpDesk/LOLBot?include_prereleases&label=version&style=for-the-badge&color=00ff00)
 
 ![Maintenance](https://img.shields.io/maintenance/no/2020?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/CamTheHelpDesk/LOLBot?style=for-the-badge)
-![Commit Activity](https://img.shields.io/github/commit-activity/m/CamTheHelpDesk/LOLBot?style=for-the-badge)
 
 ![Languages](https://img.shields.io/github/languages/count/CamTheHelpDesk/LOLBot?style=for-the-badge&color=0000ff)
 ![Top Language](https://img.shields.io/github/languages/top/CamTheHelpDesk/LOLBot?style=for-the-badge&color=0000ff)
