@@ -17,7 +17,7 @@ LOLbot is a revolutionary, brand-new, never before seen idea that will automatic
 ![Closed PRs](https://img.shields.io/github/issues-pr-closed-raw/CamTheHelpDesk/LOLBot?style=for-the-badge&color=00ff00)
 
 ## INVITE LINK
-[Click here to invite LOLBot](https://discord.com/api/oauth2/authorize?client_id=767829122952986665&permissions=117824&scope=bot)
+[Click here to invite LOLBot (DELETED)]()
 
 ## Table of Contents
 * [About](https://github.com/CamTheHelpDesk/LOLBot#about)
