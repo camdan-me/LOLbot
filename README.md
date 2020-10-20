@@ -3,22 +3,16 @@ LOLbot is a revolutionary, brand-new, never before seen idea that will automatic
 
 ![Lint Workflow Status](https://img.shields.io/github/workflow/status/CamTheHelpDesk/LOLBot/ESLint?label=Lint&style=for-the-badge)
 
-![Uptime](https://img.shields.io/uptimerobot/ratio/m785979879-8b41100ca85c4a06cbdd0155?style=for-the-badge)
-![Status](https://img.shields.io/uptimerobot/status/m785979879-8b41100ca85c4a06cbdd0155?style=for-the-badge)
-
 ![License](https://img.shields.io/github/license/CamTheHelpDesk/LOLBot?style=for-the-badge&color=00ff00)
 ![Version](https://img.shields.io/github/v/release/CamTheHelpDesk/LOLBot?include_prereleases&label=version&style=for-the-badge&color=00ff00)
 
-![Maintenance](https://img.shields.io/maintenance/yes/2020?style=for-the-badge)
+![Maintenance](https://img.shields.io/maintenance/no/2020?style=for-the-badge)
 ![Last Commit](https://img.shields.io/github/last-commit/CamTheHelpDesk/LOLBot?style=for-the-badge)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/CamTheHelpDesk/LOLBot?style=for-the-badge)
 
 ![Languages](https://img.shields.io/github/languages/count/CamTheHelpDesk/LOLBot?style=for-the-badge&color=0000ff)
 ![Top Language](https://img.shields.io/github/languages/top/CamTheHelpDesk/LOLBot?style=for-the-badge&color=0000ff)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/CamTheHelpDesk/LOLBot?style=for-the-badge&color=0000ff)
-
-![Code Quality](https://img.shields.io/codeclimate/maintainability/CamTheHelpDesk/LOLBot?label=Code%20Quality&style=for-the-badge)
-![Code Quality Issues](https://img.shields.io/codeclimate/issues/CamTheHelpDesk/LOLBot?label=Code%20Quality%20Issues&style=for-the-badge)
 
 ![Open Issues](https://img.shields.io/github/issues-raw/CamTheHelpDesk/LOLBot?style=for-the-badge&color=ff0000)
 ![Closed Issues](https://img.shields.io/github/issues-closed-raw/CamTheHelpDesk/LOLBot?style=for-the-badge&color=ff0000)
@@ -37,9 +31,7 @@ LOLbot is a revolutionary, brand-new, never before seen idea that will automatic
 LOLBot is a completely useless bot that does nothing but react with 🤣 to every message that contains some variation of `LOL`.
 
 ## Contributing
-Thank you for your interest in contributing! If you would like to contribute to the bot in some way (including writing code, suggesting ideas, or hunting bugs), please read [`CONTRIBUTING.md`](https://github.com/CamTheHelpDesk/LOLBot/blob/master/CONTRIBUTING.md) to learn more about the bot and how to help with it's development.
-
-> [Check us out on CodeClimate](https://codeclimate.com/github/CamTheHelpDesk/LOLBot)
+The bot is no longer accepting contributions.
 
 [![Run on Repl.it](https://repl.it/badge/github/CamTheHelpDesk/LOLBot)](https://repl.it/github/CamTheHelpDesk/LOLBot)
 
